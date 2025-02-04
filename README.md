@@ -98,7 +98,7 @@ Some advanced SQL queries used in the project:
 |-- sql_queries/              # SQL scripts for analysis
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 # Project documentation
-|-- requirements.txt          # Required Python libraries
+
 ```
 
 ---
